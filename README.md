@@ -8,3 +8,6 @@ npm install
 ```
 node server.js
 ```
+
+
+This is just for blog purpose, where original blog is published [here](https://virendraoswal.com/access-ethereum-data-via-web3js-and-infuraio)
